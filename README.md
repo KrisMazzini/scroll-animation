@@ -6,5 +6,5 @@ Please follow [this link](https://www.instagram.com/p/CoDu61CLUvP/?igshid=YmMyMT
 
 ## how to use
 
-- Check the finished project out [here](https://KrisMazini.github.io/scroll-animation/)
+- Check the finished project out [here](https://KrisMazzini.github.io/scroll-animation/)
 - Clone this repo: ```git clone git@github.com:KrisMazzini/scroll-animation.git```
